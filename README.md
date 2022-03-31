@@ -2,5 +2,7 @@
 
 introduction a git
 
-test dajout de contenu a un fichier
+test daout de contenu a un fichier
 allo
+
+test d<ajout a partir de git hub
